@@ -1,7 +1,7 @@
 // node.js versions pre-v0.18.0 do not support the fetch api and require a polyfill
 // const fetch = require('node-fetch');
 fetch(
-  'https://discordapp.com/api/webhooks/738983040323289120/mzhXrZz0hqOuUaPUjB_RBTE8XJUFLe8fe9mgeJjQCaxjHX14c3SW3ZR199_CDEI-xT56',
+  'https://discord.com/api/webhooks/1272436307175411765/8_jT8dwNkg2nFej68ISZn9Lh0IVPK9TwPKxySpLeXN0F8HvPW7B_7RrtFzh8M1q-ZsNF',
   {
     method: 'post',
     headers: {
